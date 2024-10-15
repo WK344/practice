@@ -1,4 +1,4 @@
 # practice
 This is my first git repository
-<b>
+<br>
 Author - Warisha khan
